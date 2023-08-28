@@ -54,4 +54,3 @@ with DAG(
     )
 
     first_function_execute >> second_function_execute
-
